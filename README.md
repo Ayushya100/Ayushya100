@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushya100" alt="ayushya100" /></a> </p>
 
+- 🔭 I’m currently working in **Accenture Ltd.**
+
 - 💬 Ask me about **JavaScript, TypeScript, Angular, NodeJS, ExpressJS, MongoDB, and SAP database**
 
 - 📫 How to reach me **jaiswalayushya@accenture.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushya-jaiswal-705600195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushya-jaiswal-705600195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushya-jaiswal-705600195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushya-jaiswal-705600195" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
